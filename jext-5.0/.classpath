@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/lib"/>
+	<classpathentry kind="src" path="src/plugins/FindAll"/>
+	<classpathentry kind="src" path="src/plugins/FindInFiles/src"/>
+	<classpathentry kind="src" path="src/plugins/FunnyBrackets/src"/>
+	<classpathentry kind="src" path="src/plugins/HTML"/>
+	<classpathentry kind="src" path="src/plugins/HyperTyper"/>
+	<classpathentry kind="src" path="src/plugins/Java"/>
+	<classpathentry kind="src" path="src/plugins/KeystrokeRecorder"/>
+	<classpathentry kind="src" path="src/plugins/KLNF"/>
+	<classpathentry kind="src" path="src/plugins/Php/src"/>
+	<classpathentry kind="src" path="src/plugins/PyBrowse"/>
+	<classpathentry kind="src" path="src/plugins/WheelMouse"/>
+	<classpathentry kind="src" path="src/plugins/XMLBrowse"/>
+	<classpathentry kind="src" path="src/updating"/>
+	<classpathentry kind="lib" path="extplugins/Admin/ant-contrib-0.1.jar"/>
+	<classpathentry kind="lib" path="lib/dawn-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/jext-5.0.jar"/>
+	<classpathentry kind="lib" path="lib/jython-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/looks-1.2.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

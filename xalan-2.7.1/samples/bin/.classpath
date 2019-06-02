@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="ApplyXPath/|ApplyXPathDOM/|CompiledApplet/|CompiledBrazil/|CompiledEJB/|CompiledJAXP/|CompiledServlet/|DOM2DOM/|extensions/|extensions/sql/ext-connection/|Pipe/|SAX2SAX/|SimpleTransform/|Trace/|TransformThread/|translets/|trax/|UseStylesheetParam/|UseStylesheetPI/|UseXMLFilters/|Validate/|XPathAPI/" kind="src" path=""/>
+	<classpathentry kind="src" path="ApplyXPath"/>
+	<classpathentry kind="src" path="ApplyXPathDOM"/>
+	<classpathentry kind="src" path="CompiledApplet"/>
+	<classpathentry kind="src" path="CompiledBrazil"/>
+	<classpathentry kind="src" path="CompiledEJB"/>
+	<classpathentry kind="src" path="CompiledJAXP"/>
+	<classpathentry kind="src" path="CompiledServlet"/>
+	<classpathentry kind="src" path="DOM2DOM"/>
+	<classpathentry excluding="sql/ext-connection/" kind="src" path="extensions"/>
+	<classpathentry kind="src" path="extensions/sql/ext-connection"/>
+	<classpathentry kind="src" path="Pipe"/>
+	<classpathentry kind="src" path="SAX2SAX"/>
+	<classpathentry kind="src" path="SimpleTransform"/>
+	<classpathentry kind="src" path="Trace"/>
+	<classpathentry kind="src" path="TransformThread"/>
+	<classpathentry kind="src" path="translets"/>
+	<classpathentry kind="src" path="trax"/>
+	<classpathentry kind="src" path="UseStylesheetParam"/>
+	<classpathentry kind="src" path="UseStylesheetPI"/>
+	<classpathentry kind="src" path="UseXMLFilters"/>
+	<classpathentry kind="src" path="Validate"/>
+	<classpathentry kind="src" path="XPathAPI"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/BCEL.jar"/>
+	<classpathentry kind="lib" path="lib/javax.ejb.jar"/>
+	<classpathentry kind="lib" path="lib/javax.servlet.jar"/>
+	<classpathentry kind="lib" path="lib/regexp.jar"/>
+	<classpathentry kind="lib" path="lib/runtime.jar"/>
+	<classpathentry kind="lib" path="lib/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="lib/xml-apis.jar"/>
+	<classpathentry kind="lib" path="lib/serializer.jar"/>
+	<classpathentry kind="lib" path="lib/xalan.jar"/>
+	<classpathentry kind="lib" path="lib/xsltc.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
